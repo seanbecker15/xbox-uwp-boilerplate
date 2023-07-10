@@ -7,8 +7,8 @@
     <ProjectGuid>{060F4598-1B60-4504-B6DA-38A408C30F29}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>App1</RootNamespace>
-    <AssemblyName>App1</AssemblyName>
+    <RootNamespace>XboxUwpHostedWebApp</RootNamespace>
+    <AssemblyName>XboxUwpHostedWebApp</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.22621.0</TargetPlatformVersion>
